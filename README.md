@@ -42,7 +42,8 @@ I love tech that challenges me, UI/UX that feels natural, and projects that have
 
 - Scalable backend architecture  
 - UI/UX design principles  
-- Better full-stack patterns  
+- Better full-stack patterns
+- Machine Learning and the newest developments in Generative AI
 
 ---
 
