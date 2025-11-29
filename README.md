@@ -22,6 +22,7 @@ I love tech that challenges me, UI/UX that feels natural, and projects that have
 | Project | Summary | Tech |
 |--------|---------|------|
 | [BacInfo](https://github.com/cristinalacovei/BacInfo) | Full-stack e-learning platform for students | Angular · Spring Boot · PostgreSQL |
+| [FocusFlow](https://github.com/cristinalacovei/FocusFlow) Productivity app with adaptive Spotify playlists | Angular · .NET 8 · SQL Server |
 | [palettematch](https://github.com/cristinalacovei/palettematch) | Generate, extract & save color palettes | React · JavaScript |
 | [converter_app](https://github.com/cristinalacovei/converter_app) | Real-time currency converter using API data | Angular · TypeScript |
 | [Dictionary-App](https://github.com/cristinalacovei/Dictionary-App) | Desktop dictionary application | C# · WPF |
