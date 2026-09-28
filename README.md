@@ -31,8 +31,6 @@ Currently, I'm especially interested in:
 
 **Cloud-native task management and AI study-planning platform**
 
-[🚀 Live Demo](https://d28ry4mculifvr.cloudfront.net)
-
 SmartTask is a full-stack microservices application built with Spring Boot, Spring Cloud, Angular, Keycloak, Docker, and AWS.
 
 Highlights:
